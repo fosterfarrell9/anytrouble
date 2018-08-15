@@ -9,3 +9,8 @@
 rails db:migrate
 rails db:seed
 ```
+* Reproduction of the error:
+Open a rails console.
+```
+
+```
