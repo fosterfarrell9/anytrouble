@@ -8,6 +8,7 @@
 
 * Instructions
 ```
+bundle
 rails db:migrate
 rails db:seed
 ```
