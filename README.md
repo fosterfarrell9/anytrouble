@@ -1,4 +1,5 @@
 # README
+Minimal working example for possible Rails bug for .any? in conjunction with polymorphic associations 
 
 * Rails version: 5.2.1
 
